@@ -4,7 +4,7 @@ My name is Seth, I'm what they call a software engineer and completely in love w
 
 Feel free to:
 
-- DevDuo @ **https://devduo.com** (0x)
+<!--- - DevDuo @ **https://devduo.com** (0x) --->
 
 - Say hi to me at **https://twitter.com/SethHorsley**
 
