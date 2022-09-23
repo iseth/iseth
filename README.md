@@ -2,7 +2,7 @@
 
 My name is Seth, I'm what they call a software engineer and completely in love with open source software development. My go-to programming languages for day to day tasks are ruby and elixir.
 
-Feel free to:
+Feel i am located on these parts of the web:
 
 <!--- - DevDuo @ **https://devduo.com** (0x) --->
 
@@ -12,3 +12,8 @@ Feel free to:
 
 You can also view my spam open source projects below.
 
+
+#### personal notes
+Love fly.io but they do not have:
+- [ ] https://render.com/docs/pull-request-previews
+- [ ] https://render.com/docs/cronjobs
