@@ -2,7 +2,7 @@
 
 My name is Seth, I'm what they call a software engineer and completely in love with open source software development. My go-to programming languages for day to day tasks are ruby and elixir.
 
-Feel i am located on these parts of the web:
+I am located on these parts of the web:
 
 <!--- - DevDuo @ **https://devduo.com** (0x) --->
 
