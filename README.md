@@ -11,9 +11,3 @@ I am located on these parts of the web:
 - View my background at **https://www.linkedin.com/in/sethhorsley/**
 
 You can also view my spam open source projects below.
-
-
-#### personal notes
-Love fly.io but they do not have:
-- [ ] https://render.com/docs/pull-request-previews
-- [ ] https://render.com/docs/cronjobs
